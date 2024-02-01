@@ -37,7 +37,9 @@ class Solution:
 #                     answer += 1
 #         return answer
 
-nums1 = [1, 1, 1]
-k1 = 2
+# nums1 = [3, 4, 7, 2, -3, 1, 4, 2]
+nums1 = [1, -1, 0]
+# k1 = 7
+k1 = 0
 result = Solution()
 print(result.subarraySum(nums1, k1))
