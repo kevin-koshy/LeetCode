@@ -24,6 +24,6 @@ class Solution:
 
 
 solution = Solution()
-arr1 = [1, 4, 1, 5, 7, 3, 6, 1, 9, 9, 3]
-k1 = 4
+arr1 = [1, 15, 7, 9, 2, 5, 10]
+k1 = 3
 print(solution.maxSumAfterPartitioning(arr1, k1))
